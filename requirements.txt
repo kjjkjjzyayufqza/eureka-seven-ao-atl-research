@@ -1,0 +1,7 @@
+# Tested research environment: CPython 3.11.4.
+Pillow==12.3.0
+pyelftools==0.33
+capstone==5.0.7
+# Extraction additionally requires a separate PyCriCodecs / CriCodecs install.
+# The tested local 0.4.11 build has no verified upstream commit; see attribution.
+# Blender 5.1 and optional IDA/scetool are separate installed applications.

@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+.githooks/* text eol=lf
+# Preserve exact bytes for the pinned upstream SHA-256 checks.
+third_party/ed8pkg2glb/** -text
+third_party/srw-og-infinite-battle-korean/** -text

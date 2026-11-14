@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "dependencies": {
+    "ed8pkg2glb": {
+      "author": "Julian Uy (uyjulian)",
+      "repository": "https://github.com/uyjulian/ed8pkg2glb",
+      "commit": "c076d638e3f978afe2bb4de0a6f911f03b2afdfd",
+      "license": "MIT",
+      "files": {
+        "third_party/ed8pkg2glb/src/ed8pkg2glb.py": "456940c0819cfcb2fc9ef3a09a5899dede87ce6b4b4e0fd93d291e19084d4fa3",
+        "third_party/ed8pkg2glb/LICENSE": "68dc9880991967f5f98c370891649ca8c00cfc51c4e9c6753bfe9a9812a039d4"
+      }
+    },
+    "csvb": {
+      "author": "June (kimjh-eclipse repository)",
+      "repository": "https://github.com/kimjh-eclipse/srw-og-infinite-battle-korean",
+      "commit": "d1e54c7b41b1165970f841c3de3fd7d86cc93bdc",
+      "license": "Apache-2.0",
+      "files": {
+        "third_party/srw-og-infinite-battle-korean/tools/csvb.py": "bf78326fc8ae7cb886a7d864280ce03f1f694163bd4bfb04247beb9027d3ddd7",
+        "third_party/srw-og-infinite-battle-korean/LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+      }
+    }
+  }
+}

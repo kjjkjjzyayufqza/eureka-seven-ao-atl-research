@@ -1,0 +1,27 @@
+Eureka Seven AO: Attack the Legend - File Research
+
+This repository contains research scripts and written findings. It does not
+include game files, extracted assets, converted models or animations. Game
+content and trademarks remain with their respective rights holders. No rights
+to publisher content are granted by this repository.
+
+Included third-party source snapshots:
+
+1. ed8pkg2glb by Julian Uy (uyjulian)
+   Copyright (c) 2021-2023 Julian Uy
+   MIT license: third_party/ed8pkg2glb/LICENSE
+   https://github.com/uyjulian/ed8pkg2glb
+
+2. csvb.py from kimjh-eclipse/srw-og-infinite-battle-korean
+   Commit author: June
+   Apache License 2.0: third_party/srw-og-infinite-battle-korean/LICENSE
+   https://github.com/kimjh-eclipse/srw-og-infinite-battle-korean
+
+Source revisions and file hashes are recorded in dependencies.lock.json.
+Original notices and license files are preserved without modification.
+Local research adapters are separate project-specific code and must not be
+attributed to the upstream parser authors.
+
+No project-wide license has yet been selected for original research code or
+documentation. The included third-party licenses apply to their own files.
+See docs/tools-and-attribution.md for external tools and attribution limits.
